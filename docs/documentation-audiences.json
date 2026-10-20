@@ -489,6 +489,10 @@
       "audience": "operator-current"
     },
     {
+      "path": "docs/verification/brief-task-fields.md",
+      "audience": "maintainer-verification"
+    },
+    {
       "path": "docs/verification/agy.md",
       "audience": "maintainer-verification"
     },
